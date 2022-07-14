@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(99, 103, 103);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+}
+.linha{
+   display: flex;
+
+}
+.quadradinho{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(233, 81, 21);
+    border: 1px solid black;
+    display: flex;
+
+}
+h1{
+    font-size: 90px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    color: black;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
